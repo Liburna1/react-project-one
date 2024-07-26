@@ -1,4 +1,3 @@
-import logo1 from '../assets/IMG/logo1.png';
 import '../CSS/Footer.css'
 
 const Footer = () => {
@@ -7,7 +6,6 @@ const Footer = () => {
       <footer>
         <div className="overlay"></div>
         <div className="inner-footer">
-          <img src={logo1} alt="Logo" className="footer-logo" />
           <div className="card">
             <h3>About Us</h3>
             <ul>
